@@ -76,9 +76,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 <<<<<<< HEAD
-Content/Character/Blueprints/ThirdPersonCharacter.uasset
 Content/liz/Island_2.umap
-*.umap
 =======
 Content/liz/Island_2.umap
 Content/liz/Island_2.umap
